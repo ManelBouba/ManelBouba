@@ -1,55 +1,55 @@
-# 👋 Hi there, I’m **Manel Boubakeur**!  
+# 👋 Hey there! I’m **Manel Boubakeur**  
 
-Welcome to my GitHub space—a blend of innovation, research, and learning. I am an ambitious researcher and data enthusiast, currently diving deep into the fascinating world of **AI and Data Science**. 🚀  
-
----
-
-## 🌟 **About Me**  
-I hold a PhD in Electronics, with a specialization in **photovoltaic technologies** and **nanostructured solar cells**. My journey has evolved from exploring **cutting-edge solar energy solutions** to harnessing the power of **machine learning** and **data analysis** for impactful, data-driven innovations.  
-
-Currently, I’m enrolled in the **AI and Data Science Bootcamp** at **BeCode** in Brussels, focusing on:  
-- 🌱 Mastering data analysis, machine learning, and Python programming.  
-- 🔍 Exploring tools like **Pandas**, **NumPy**, **scikit-learn**, and **TensorFlow**.  
-- 🤖 Building real-world projects in **data preprocessing**, **model evaluation**, and **AI-driven solutions**.  
+Welcome to my world of curiosity, creativity, and coding! I’m a **PhD in Electronics**, an **AI and Data Science enthusiast**, and an all-around problem solver who loves diving into complex challenges and emerging with smart, impactful solutions.  
 
 ---
 
-## 💼 **Skills and Expertise**  
+## 🌟 **Who Am I?**  
+- 🎓 **Research Scientist**: I specialized in **photovoltaic technologies** and **nanostructured solar cells**—basically, making the sun work harder for us! 🌞  
+- 📊 **Data Explorer**: Currently mastering the art of **data science** and **AI** through the **BeCode Bootcamp**.  
+- 🤝 **Collaborator**: Whether it's optimizing solar cells, analyzing datasets, or brainstorming innovative ideas, I love creating magic with teams.  
 
-### **Programming Languages:**  
-- Python 🐍 | MATLAB | C++  
+---
 
-### **Data Science & Machine Learning:**  
-- Pandas, NumPy, scikit-learn, TensorFlow  
-- Data visualization and preprocessing  
+## 🚀 **What Drives Me?**  
+- 🔍 A passion for **turning data into insights**.  
+- 🌱 A commitment to **lifelong learning** and staying ahead of the curve.  
+- 💡 An obsession with **innovation**, especially at the intersection of **renewable energy** and **artificial intelligence**.  
 
-### **Electronics & Simulation Software:**  
-- SCAPS-1D | Silvaco TCAD | SOLIDWORKS  
+---
 
-### **Languages:**  
-- 🇬🇧 English
+## 💻 **What’s in My Toolbox?**  
+
+### **Tech Skills:**  
+- **Data Science:** Pandas | NumPy | scikit-learn  
+- **Programming:** Python 🐍 | C++ | MATLAB  
+- **Electronics & Simulation:** Silvaco TCAD | SCAPS-1D | SOLIDWORKS  
+
+### **Languages I Speak:**  
+- 🇬🇧 English  
 - 🇫🇷 French 
 - 🇦🇪 Arabic   
 
 ---
 
-## 📈 **GitHub Stats**  
-![Manel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManelBoubakeur&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManelBoubakeur&layout=compact&theme=radical)](https://github.com/ManelBoubakeur)
+## 📈 **Let’s Geek Out on Stats**  
+![Manel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManelBoubakeur&show_icons=true&theme=tokyonight)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManelBoubakeur&layout=compact&theme=tokyonight)](https://github.com/ManelBoubakeur)  
 
 ---
 
-## 🌍 **Let’s Connect!**  
-
-- 📧 Email: [manelboubakeur123@gmail.com](mailto:manelboubakeur123@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/boubakeur-manel-52679a159](https://linkedin.com/in/boubakeur-manel-52679a159)  
-
----
-
-## ⚡ **Fun Fact**  
-Did you know? I started as a researcher in solar energy technologies and now I’m combining that knowledge with data science to make sustainable innovations even smarter!  
+## 🌍 **Where You’ll Find Me**  
+- 📫 Email: [manelboubakeur123@gmail.com](mailto:manelboubakeur123@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/boubakeur-manel-52679a159](https://linkedin.com/in/boubakeur-manel-52679a159)  
 
 ---
 
-### 🎯 **My Motto:**  
-*"Learn, Innovate, Inspire."*
+## 🎉 **Fun Facts About Me**  
+- ⚡ I went from **optimizing solar cells** to optimizing **machine learning models**—talk about energy transitions!  
+- 🎨 I love blending the **creativity of science** with the **precision of coding**.  
+- 🌍 I’m on a mission to make the world a greener, smarter place through **AI and renewable energy innovations**.  
+
+---
+
+### 🌟 **Mantra to Live By**  
+*"The future belongs to those who learn, innovate, and dare to make a difference."* 🚀  
